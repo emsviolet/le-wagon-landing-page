@@ -1,0 +1,12 @@
+.btn-main {
+  text-decoration: none;
+  background-color: rgba(13, 112, 114, 0.6);
+  color: whitesmoke;
+  padding: 20px;
+  border-radius: 15px;
+  transition: 0.3s;
+}
+
+.btn-main:hover {
+  background-color: goldenrod;
+}

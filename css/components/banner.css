@@ -1,0 +1,22 @@
+.banner {
+  background-image: url('../../images/coding.jpg');
+  opacity: 0.9;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+.banner .container {
+  padding-top: 70px;
+}
+.banner > .container > h1 {
+  color: whitesmoke;
+  font-size: 40px;
+  text-shadow: -5px -5px 10px black;
+}
+
+.banner > .container > p {
+  color: whitesmoke;
+  margin-bottom: 70px;
+  font-weight: bold;
+  font-size: 20px;
+}

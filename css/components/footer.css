@@ -1,0 +1,29 @@
+.footer {
+  background-image: url('../../images/coding.jpg');
+  opacity: 0.9;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+.footer h3 {
+  color: whitesmoke;
+  padding-top: 20px;
+  font-weight: bolder;
+  font-size: 30px;
+  text-shadow: -5px -5px 10px black;
+}
+
+.footer ul {
+  list-style: none;
+  text-align: center;
+}
+
+.footer .list-inline li {
+  display: inline-block;
+  font-size: 55px;
+  padding: 0px 20px;
+}
+.footer a {
+   color: whitesmoke;
+   text-shadow: -5px -5px 10px black;
+}
